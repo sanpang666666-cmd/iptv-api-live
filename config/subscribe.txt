@@ -8,11 +8,11 @@ https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u?utm_source=chatgpt.com
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
-
+https://raw.githubusercontent.com/wsc7758/iptv/refs/heads/master/iptv.txt
 https://iptv-org.github.io/iptv/countries/cn.m3u
-
-
-
+https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u
+https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GNTV.m3u
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
