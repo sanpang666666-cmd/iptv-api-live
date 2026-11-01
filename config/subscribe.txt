@@ -4,9 +4,9 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u?utm_source=chatgpt.com
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-
+https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u?utm_source=chatgpt.com
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 
 https://iptv-org.github.io/iptv/countries/cn.m3u
